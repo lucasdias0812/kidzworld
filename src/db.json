@@ -1,0 +1,16 @@
+{
+"products" : [
+        {
+            "id":1,
+            "name": "Oculos de Sol",
+            "price": 200,
+            "img": "https://images.ray-ban.com/is/image/RayBan/8053672878356__STD__shad__qt.png?impolicy=RB_Product&width=1024&bgc=%23f2f2f2"
+        },
+        {
+            "id":2,
+            "name": "Oculos de Grau",
+            "valoUnitario": 500,
+            "img": "https://m.media-amazon.com/images/I/51NMaiM9fSL._AC_SL1500_.jpg"
+        }
+    ]
+}
